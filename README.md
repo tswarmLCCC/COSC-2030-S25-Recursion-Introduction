@@ -10,7 +10,9 @@ Ex: If the input is:
 the function DigitCount() returns and the program outputs:
 3
 
-```C++ Starter Code
+
+C++ Starter Code
+```C++
 
 
 #include 
